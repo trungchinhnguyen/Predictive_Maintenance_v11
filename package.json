@@ -1,8 +1,8 @@
 {
   "name": "predictive_maintenance_v11",
   "engines": {
-    "npm": "9.8.1",
-    "node": "v18.18.0"
+    "npm": "8.18.0",
+    "node": "16.16.0"
     },
   "version": "0.1.0",
   "private": true,
